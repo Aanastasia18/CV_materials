@@ -1,0 +1,11 @@
+<configuration>
+	<configuration>
+ <app> 
+ <name>Social</name>
+ <version>1.0.0></version>
+ <author>Student</author>
+ </app>
+ <secret-key>123456></secret-key>
+
+</configuration>
+</configuration>
